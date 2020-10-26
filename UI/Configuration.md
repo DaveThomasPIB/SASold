@@ -4,13 +4,13 @@
 
 ### Report data service
 
-jvm
+**jvm**
 Option | Original value | Modified values
 ------------ | ------------- | -------------
 JAVA_OPTION_XMX | -xmx1536m | -xmx4096m
 
 
-sas.reportdata.properties
+**sas.reportdata.properties**
 Option | Original value | Modified values
 ------------ | ------------- | -------------
 defaultMaxCellsProduced | 250000 | 325000
