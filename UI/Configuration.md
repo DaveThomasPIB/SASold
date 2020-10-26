@@ -14,5 +14,5 @@ sas.reportdata.properties
 Option | Original value | Modified values
 ------------ | ------------- | -------------
 defaultMaxCellsProduced | 250000 | 325000
-supplementalProperties | N/A` | 500000000
+supplementalProperties | N/A | 500000000
 protobufSizeLimit | N/A | 250000000
